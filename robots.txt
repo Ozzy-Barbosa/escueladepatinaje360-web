@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /escueladepatinaje360-web/pedido/
+Disallow: /escueladepatinaje360-web/comprar-libro/
+Sitemap: https://ozzy-barbosa.github.io/escueladepatinaje360-web/sitemap.xml
